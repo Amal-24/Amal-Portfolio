@@ -1515,8 +1515,12 @@ footer .credits a {
 
 .bn5:active:after {
   background: transparent;
+  color:white;
 }
 
+.bn5:hover{
+  color:white;
+}
 .bn5:hover:before {
   opacity: 1;
 }
